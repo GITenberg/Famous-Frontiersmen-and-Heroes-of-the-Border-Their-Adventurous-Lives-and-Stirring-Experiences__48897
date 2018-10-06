@@ -21,6 +21,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Famous Frontiersmen and Heroes of the Border
 
   Their Adventurous Lives and Stirring Experiences in Pioneer Days'
